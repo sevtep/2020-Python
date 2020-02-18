@@ -1,2 +1,2 @@
-# 2020-Spring
-Projects for research
+# 2020-Python
+Projects for training
